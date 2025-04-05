@@ -36,8 +36,8 @@ I'm a **Brazilian software developer in training** 🚀
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaquelVPiza&show_icons=true&theme=dracula&locale=pt-br" alt="Raquel GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelVPiza&layout=compact&theme=dracula" alt="Raquel Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kel-piza&show_icons=true&theme=dracula&locale=pt-br" alt="Raquel GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel-piza&layout=compact&theme=dracula" alt="Raquel Top Langs"/>
 </div>
 
 ---
