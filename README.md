@@ -4,9 +4,9 @@ Eu sou a **Raquel Vilela Piza** 🇧🇷
 I'm a **Brazilian software developer in training** 🚀
 
 🎓 Técnica em Desenvolvimento de Sistemas pelo SENAI e SESI  
-🎓 Currently studying Computer Science at IFSP (Federal Institute of São Paulo)  
+🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas no IFSP  
 💻 Apaixonada por tecnologia e sempre buscando aprender mais!  
-💼 Preparing myself to join the tech industry and grow as a developer  
+💼 Me preparando para entrar no mercado de trabalho como desenvolvedora  
 
 ---
 
@@ -33,11 +33,20 @@ I'm a **Brazilian software developer in training** 🚀
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaquelVPiza&show_icons=true&theme=dracula&locale=pt-br" alt="Raquel GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelVPiza&layout=compact&theme=dracula" alt="Raquel Top Langs"/>
+</div>
+
+---
+
 ## 📫 Contato | Contact
 
 Você pode me encontrar por aqui | You can reach me here:
 
-- 📧 Email: raquelvilela.piza91@gmail.com
+- 📧 Email: raquelvilelapiza@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com) *(adicione seu link aqui)*
 
 ---
