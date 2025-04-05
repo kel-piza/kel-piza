@@ -37,7 +37,7 @@ I'm a **Brazilian software developer in training** 🚀
 
 Você pode me encontrar por aqui | You can reach me here:
 
-- 📧 Email: raquelvilelapiza@gmail.com
+- 📧 Email: raquelvilela.piza91@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com) *(adicione seu link aqui)*
 
 ---
