@@ -1,12 +1,16 @@
-# Olá! 👋 Eu sou a Raquel Vilela Piza
+# Olá! 👋 Hello there!
+
+Eu sou a **Raquel Vilela Piza** 🇧🇷  
+I'm a **Brazilian software developer in training** 🚀
 
 🎓 Técnica em Desenvolvimento de Sistemas pelo SENAI e SESI  
-💻 Apaixonada por tecnologia, programação e aprendizado contínuo!  
-📚 Atualmente estudando e desenvolvendo projetos para meu portfólio.  
+🎓 Currently studying Computer Science at IFSP (Federal Institute of São Paulo)  
+💻 Apaixonada por tecnologia e sempre buscando aprender mais!  
+💼 Preparing myself to join the tech industry and grow as a developer  
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🚀 Tecnologias que uso | Technologies I use
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -19,25 +23,25 @@
 
 ---
 
-## 🌱 Sempre aprendendo...
+## 🌱 Sempre aprendendo | Always learning
 
 - Backend com Java e C#
 - Frontend com HTML, CSS e JavaScript
 - Banco de dados com MySQL
 - Google Cloud & AWS
-- Boas práticas com Git e GitHub
+- Git e GitHub para versionamento
 
 ---
 
-## 📫 Entre em contato
+## 📫 Contato | Contact
 
-Você pode me encontrar por aqui:
+Você pode me encontrar por aqui | You can reach me here:
 
-- 📧 Email: raquelvilelapiza@gmail.com *(ou outro que preferir colocar)*
-- 💼 [LinkedIn](https://www.linkedin.com) *(adicione seu link se tiver)*
+- 📧 Email: raquelvilelapiza@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com) *(adicione seu link aqui)*
 
 ---
 
 <div align="center">
-  Feito com ❤️ por Raquel
+  Feito com ❤️ por Raquel | Made with ❤️ by Raquel
 </div>
