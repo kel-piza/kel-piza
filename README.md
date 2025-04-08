@@ -34,9 +34,6 @@ I'm a **Brazilian software developer in training** 🚀
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kel-piza&show_icons=true&theme=dracula&locale=pt-br" alt="Raquel GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel-piza&layout=compact&theme=dracula" alt="Raquel Top Langs"/>
 </div>
 
